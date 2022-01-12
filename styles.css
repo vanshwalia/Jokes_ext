@@ -1,0 +1,18 @@
+body {
+    width: 200px;
+    height: 200px;
+    background-color:lightsteelblue;
+    display: flex;
+    justify-content: center;
+}
+
+p { font-family: "Lucida Console", "Courier New", monospace;
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 20px;
+    font-weight:2px;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid rgb(12, 13, 14);
+    padding: 10px;
+}
